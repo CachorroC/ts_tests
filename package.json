@@ -1,0 +1,11 @@
+{
+  "name": "ts_tests",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "@types/node": "^18.16.0",
+    "@types/react": "^18.0.38",
+    "eslint": "^8.39.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  }
+}
