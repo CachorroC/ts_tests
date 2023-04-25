@@ -1,0 +1,1523 @@
+[
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25245408900120170023900",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50468620,
+    "idConexion": 259,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-26T00:00:00",
+    "fechaUltimaActuacion": "2023-04-17T00:00:00",
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 113956611,
+    "idConexion": 320,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-24T00:00:00",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50468620,
+    "idConexion": 259,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-26T00:00:00",
+    "fechaUltimaActuacion": "2023-04-17T00:00:00",
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 113956611,
+    "idConexion": 320,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-24T00:00:00",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50468620,
+        "idConexion": 259,
+        "llaveProceso": "11001400300320170088400",
+        "fechaProceso": "2017-05-26T00:00:00",
+        "fechaUltimaActuacion": "2023-04-17T00:00:00",
+        "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      },
+      {
+        "idProceso": 113956611,
+        "idConexion": 320,
+        "llaveProceso": "11001400300320170088400",
+        "fechaProceso": "2017-05-24T00:00:00",
+        "fechaUltimaActuacion": null,
+        "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400300320170088400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 2,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50769660,
+        "idConexion": 259,
+        "llaveProceso": "11001400302120170153200",
+        "fechaProceso": "2017-10-11T00:00:00",
+        "fechaUltimaActuacion": "2023-04-14T00:00:00",
+        "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+        "esPrivado": false,
+        "cantFilas": -1
+      },
+      {
+        "idProceso": 81620291,
+        "idConexion": 320,
+        "llaveProceso": "11001400302120170153200",
+        "fechaProceso": null,
+        "fechaUltimaActuacion": null,
+        "despacho": "JUZGADO 021 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+        "esPrivado": true,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400302120170153200",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 2,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50769660,
+    "idConexion": 259,
+    "llaveProceso": "11001400302120170153200",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2023-04-14T00:00:00",
+    "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  "",
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25754418900320170075500",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25175408900320180060200",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25377408900120180037100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50769660,
+    "idConexion": 259,
+    "llaveProceso": "11001400302120170153200",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2023-04-14T00:00:00",
+    "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  "",
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 112945420,
+        "idConexion": 259,
+        "llaveProceso": "11001400303720170139100",
+        "fechaProceso": "2017-10-11T00:00:00",
+        "fechaUltimaActuacion": "2022-03-09T00:00:00",
+        "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400303720170139100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 112945420,
+    "idConexion": 259,
+    "llaveProceso": "11001400303720170139100",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2022-03-09T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 112945420,
+    "idConexion": 259,
+    "llaveProceso": "11001400303720170139100",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2022-03-09T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50762570,
+    "idConexion": 259,
+    "llaveProceso": "11001400304820170097400",
+    "fechaProceso": "2017-10-09T00:00:00",
+    "fechaUltimaActuacion": "2022-12-01T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50762570,
+        "idConexion": 259,
+        "llaveProceso": "11001400304820170097400",
+        "fechaProceso": "2017-10-09T00:00:00",
+        "fechaUltimaActuacion": "2022-12-01T00:00:00",
+        "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400304820170097400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50762570,
+    "idConexion": 259,
+    "llaveProceso": "11001400304820170097400",
+    "fechaProceso": "2017-10-09T00:00:00",
+    "fechaUltimaActuacion": "2022-12-01T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25754400300120170032300",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50777890,
+    "idConexion": 259,
+    "llaveProceso": "11001400301520170139400",
+    "fechaProceso": "2017-10-13T00:00:00",
+    "fechaUltimaActuacion": "2021-11-08T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50777890,
+    "idConexion": 259,
+    "llaveProceso": "11001400301520170139400",
+    "fechaProceso": "2017-10-13T00:00:00",
+    "fechaUltimaActuacion": "2021-11-08T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50777890,
+        "idConexion": 259,
+        "llaveProceso": "11001400301520170139400",
+        "fechaProceso": "2017-10-13T00:00:00",
+        "fechaUltimaActuacion": "2021-11-08T00:00:00",
+        "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400301520170139400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 51042800,
+    "idConexion": 259,
+    "llaveProceso": "11001400305620180022100",
+    "fechaProceso": "2018-03-01T00:00:00",
+    "fechaUltimaActuacion": "2022-11-11T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 51042800,
+    "idConexion": 259,
+    "llaveProceso": "11001400305620180022100",
+    "fechaProceso": "2018-03-01T00:00:00",
+    "fechaUltimaActuacion": "2022-11-11T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 51042800,
+        "idConexion": 259,
+        "llaveProceso": "11001400305620180022100",
+        "fechaProceso": "2018-03-01T00:00:00",
+        "fechaUltimaActuacion": "2022-11-11T00:00:00",
+        "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400305620180022100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 112628300,
+        "idConexion": 262,
+        "llaveProceso": "11001400306820200102100",
+        "fechaProceso": "2020-10-09T00:00:00",
+        "fechaUltimaActuacion": "2023-01-23T00:00:00",
+        "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: DIMOIN COLOMBIA SAS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400306820200102100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 112628300,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820200102100",
+    "fechaProceso": "2020-10-09T00:00:00",
+    "fechaUltimaActuacion": "2023-01-23T00:00:00",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: DIMOIN COLOMBIA SAS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 112628300,
+    "idConexion": 262,
+    "llaveProceso": "11001400306820200102100",
+    "fechaProceso": "2020-10-09T00:00:00",
+    "fechaUltimaActuacion": "2023-01-23T00:00:00",
+    "despacho": "JUZGADO 068 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A | Demandado: DIMOIN COLOMBIA SAS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "11001418901320190070800",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50468620,
+    "idConexion": 259,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-26T00:00:00",
+    "fechaUltimaActuacion": "2023-04-17T00:00:00",
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 113956611,
+    "idConexion": 320,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-24T00:00:00",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50468620,
+        "idConexion": 259,
+        "llaveProceso": "11001400300320170088400",
+        "fechaProceso": "2017-05-26T00:00:00",
+        "fechaUltimaActuacion": "2023-04-17T00:00:00",
+        "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      },
+      {
+        "idProceso": 113956611,
+        "idConexion": 320,
+        "llaveProceso": "11001400300320170088400",
+        "fechaProceso": "2017-05-24T00:00:00",
+        "fechaUltimaActuacion": null,
+        "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400300320170088400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 2,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50468620,
+    "idConexion": 259,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-26T00:00:00",
+    "fechaUltimaActuacion": "2023-04-17T00:00:00",
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: YESID ALBEIRO RAMOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 113956611,
+    "idConexion": 320,
+    "llaveProceso": "11001400300320170088400",
+    "fechaProceso": "2017-05-24T00:00:00",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 003 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: YESID ALBEIRO RAMOS  (Emplazado) | Defensor Publico: MARIA HELENA SUAREZ GARCIA ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50521480,
+    "idConexion": 259,
+    "llaveProceso": "11001400303420170083600",
+    "fechaProceso": "2017-06-21T00:00:00",
+    "fechaUltimaActuacion": "2023-03-13T00:00:00",
+    "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS ESNEIDER ORDUZ FARFAN ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 81728891,
+    "idConexion": 320,
+    "llaveProceso": "11001400303420170083600",
+    "fechaProceso": "2017-09-14T00:00:00",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: LUIS ESNEIDER ORDUZ FARFAN | Defensor Privado: MARIA HELENA SUAREZ GARCIA | Tercero Vinculado: ACREEEDORES    (Emplazado) ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50521480,
+        "idConexion": 259,
+        "llaveProceso": "11001400303420170083600",
+        "fechaProceso": "2017-06-21T00:00:00",
+        "fechaUltimaActuacion": "2023-03-13T00:00:00",
+        "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS ESNEIDER ORDUZ FARFAN ",
+        "esPrivado": false,
+        "cantFilas": -1
+      },
+      {
+        "idProceso": 81728891,
+        "idConexion": 320,
+        "llaveProceso": "11001400303420170083600",
+        "fechaProceso": "2017-09-14T00:00:00",
+        "fechaUltimaActuacion": null,
+        "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: LUIS ESNEIDER ORDUZ FARFAN | Defensor Privado: MARIA HELENA SUAREZ GARCIA | Tercero Vinculado: ACREEEDORES    (Emplazado) ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400303420170083600",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 2,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50521480,
+    "idConexion": 259,
+    "llaveProceso": "11001400303420170083600",
+    "fechaProceso": "2017-06-21T00:00:00",
+    "fechaUltimaActuacion": "2023-03-13T00:00:00",
+    "despacho": "JUZGADO 012 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LUIS ESNEIDER ORDUZ FARFAN ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 81728891,
+    "idConexion": 320,
+    "llaveProceso": "11001400303420170083600",
+    "fechaProceso": "2017-09-14T00:00:00",
+    "fechaUltimaActuacion": null,
+    "despacho": "JUZGADO 034 CIVIL MUNICIPAL DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: Banco Bancolombia SA | Demandado/indiciado/causante: LUIS ESNEIDER ORDUZ FARFAN | Defensor Privado: MARIA HELENA SUAREZ GARCIA | Tercero Vinculado: ACREEEDORES    (Emplazado) ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25245408900120170023900",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25754418900320170075500",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 112048180,
+    "idConexion": 259,
+    "llaveProceso": "11001400302520170090300",
+    "fechaProceso": "2017-08-29T00:00:00",
+    "fechaUltimaActuacion": "2023-03-30T00:00:00",
+    "despacho": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DARNELLY HERNANDEZ MARTINEZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 112048180,
+    "idConexion": 259,
+    "llaveProceso": "11001400302520170090300",
+    "fechaProceso": "2017-08-29T00:00:00",
+    "fechaUltimaActuacion": "2023-03-30T00:00:00",
+    "despacho": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DARNELLY HERNANDEZ MARTINEZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 112048180,
+        "idConexion": 259,
+        "llaveProceso": "11001400302520170090300",
+        "fechaProceso": "2017-08-29T00:00:00",
+        "fechaUltimaActuacion": "2023-03-30T00:00:00",
+        "despacho": "JUZGADO 018 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: DARNELLY HERNANDEZ MARTINEZ ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400302520170090300",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50621670,
+        "idConexion": 259,
+        "llaveProceso": "11001400300120170100100",
+        "fechaProceso": "2017-08-09T00:00:00",
+        "fechaUltimaActuacion": "2023-03-28T00:00:00",
+        "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: WILSON ALFONSO JIMENEZ MENDIETA ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400300120170100100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50621670,
+    "idConexion": 259,
+    "llaveProceso": "11001400300120170100100",
+    "fechaProceso": "2017-08-09T00:00:00",
+    "fechaUltimaActuacion": "2023-03-28T00:00:00",
+    "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: WILSON ALFONSO JIMENEZ MENDIETA ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50621670,
+    "idConexion": 259,
+    "llaveProceso": "11001400300120170100100",
+    "fechaProceso": "2017-08-09T00:00:00",
+    "fechaUltimaActuacion": "2023-03-28T00:00:00",
+    "despacho": "JUZGADO 017 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: WILSON ALFONSO JIMENEZ MENDIETA ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50716620,
+        "idConexion": 259,
+        "llaveProceso": "11001400300820170113400",
+        "fechaProceso": "2017-09-19T00:00:00",
+        "fechaUltimaActuacion": "2023-03-01T00:00:00",
+        "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FANOR DIAZ AGUDELO ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400300820170113400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50716620,
+    "idConexion": 259,
+    "llaveProceso": "11001400300820170113400",
+    "fechaProceso": "2017-09-19T00:00:00",
+    "fechaUltimaActuacion": "2023-03-01T00:00:00",
+    "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FANOR DIAZ AGUDELO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50716620,
+    "idConexion": 259,
+    "llaveProceso": "11001400300820170113400",
+    "fechaProceso": "2017-09-19T00:00:00",
+    "fechaUltimaActuacion": "2023-03-01T00:00:00",
+    "despacho": "JUZGADO 006 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: FANOR DIAZ AGUDELO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 112945420,
+        "idConexion": 259,
+        "llaveProceso": "11001400303720170139100",
+        "fechaProceso": "2017-10-11T00:00:00",
+        "fechaUltimaActuacion": "2022-03-09T00:00:00",
+        "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400303720170139100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 112945420,
+    "idConexion": 259,
+    "llaveProceso": "11001400303720170139100",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2022-03-09T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 112945420,
+    "idConexion": 259,
+    "llaveProceso": "11001400303720170139100",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2022-03-09T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: JOSE NOEL PUERTA JARAMILLO | Demandado: LUZ DARY PUERTA JARAMILLO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50777890,
+    "idConexion": 259,
+    "llaveProceso": "11001400301520170139400",
+    "fechaProceso": "2017-10-13T00:00:00",
+    "fechaUltimaActuacion": "2021-11-08T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 50777890,
+    "idConexion": 259,
+    "llaveProceso": "11001400301520170139400",
+    "fechaProceso": "2017-10-13T00:00:00",
+    "fechaUltimaActuacion": "2021-11-08T00:00:00",
+    "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50777890,
+        "idConexion": 259,
+        "llaveProceso": "11001400301520170139400",
+        "fechaProceso": "2017-10-13T00:00:00",
+        "fechaUltimaActuacion": "2021-11-08T00:00:00",
+        "despacho": "JUZGADO 011 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANA LUCIA AGUILAR | Demandado: CARMELINA AGUILAR | Demandado: HUMBERTO AVILA MATIAS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400301520170139400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50762570,
+    "idConexion": 259,
+    "llaveProceso": "11001400304820170097400",
+    "fechaProceso": "2017-10-09T00:00:00",
+    "fechaUltimaActuacion": "2022-12-01T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50762570,
+        "idConexion": 259,
+        "llaveProceso": "11001400304820170097400",
+        "fechaProceso": "2017-10-09T00:00:00",
+        "fechaUltimaActuacion": "2022-12-01T00:00:00",
+        "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400304820170097400",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50762570,
+    "idConexion": 259,
+    "llaveProceso": "11001400304820170097400",
+    "fechaProceso": "2017-10-09T00:00:00",
+    "fechaUltimaActuacion": "2022-12-01T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ANDERSON REVELO SANTOS ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 50769660,
+        "idConexion": 259,
+        "llaveProceso": "11001400302120170153200",
+        "fechaProceso": "2017-10-11T00:00:00",
+        "fechaUltimaActuacion": "2023-04-14T00:00:00",
+        "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+        "esPrivado": false,
+        "cantFilas": -1
+      },
+      {
+        "idProceso": 81620291,
+        "idConexion": 320,
+        "llaveProceso": "11001400302120170153200",
+        "fechaProceso": null,
+        "fechaUltimaActuacion": null,
+        "despacho": "JUZGADO 021 CIVIL MUNICIPAL DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "--- [ PROCESO PRIVADO ] ---",
+        "esPrivado": true,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400302120170153200",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 2,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 50769660,
+    "idConexion": 259,
+    "llaveProceso": "11001400302120170153200",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2023-04-14T00:00:00",
+    "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  "",
+  {
+    "idProceso": 50769660,
+    "idConexion": 259,
+    "llaveProceso": "11001400302120170153200",
+    "fechaProceso": "2017-10-11T00:00:00",
+    "fechaUltimaActuacion": "2023-04-14T00:00:00",
+    "despacho": "JUZGADO 015 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LIBARDO ALFONSO GONZALEZ TRIVIÑO ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  "",
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [],
+    "parametros": {
+      "numero": "25754400300120170032300",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 0,
+      "registrosPagina": 20,
+      "cantidadPaginas": 0,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 51029180,
+        "idConexion": 259,
+        "llaveProceso": "11001400302120180023600",
+        "fechaProceso": "2018-02-23T00:00:00",
+        "fechaUltimaActuacion": "2023-03-22T00:00:00",
+        "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ARTURO LINCE GOMEZ ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400302120180023600",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 51029180,
+    "idConexion": 259,
+    "llaveProceso": "11001400302120180023600",
+    "fechaProceso": "2018-02-23T00:00:00",
+    "fechaUltimaActuacion": "2023-03-22T00:00:00",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ARTURO LINCE GOMEZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 51029180,
+    "idConexion": 259,
+    "llaveProceso": "11001400302120180023600",
+    "fechaProceso": "2018-02-23T00:00:00",
+    "fechaUltimaActuacion": "2023-03-22T00:00:00",
+    "despacho": "JUZGADO 013 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: ARTURO LINCE GOMEZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 51042800,
+    "idConexion": 259,
+    "llaveProceso": "11001400305620180022100",
+    "fechaProceso": "2018-03-01T00:00:00",
+    "fechaUltimaActuacion": "2022-11-11T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 51042800,
+        "idConexion": 259,
+        "llaveProceso": "11001400305620180022100",
+        "fechaProceso": "2018-03-01T00:00:00",
+        "fechaUltimaActuacion": "2022-11-11T00:00:00",
+        "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001400305620180022100",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 51042800,
+    "idConexion": 259,
+    "llaveProceso": "11001400305620180022100",
+    "fechaProceso": "2018-03-01T00:00:00",
+    "fechaUltimaActuacion": "2022-11-11T00:00:00",
+    "despacho": "JUZGADO 007 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: CREAS CONSULTORES S.A.S. ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 51816100,
+        "idConexion": 259,
+        "llaveProceso": "11001418901420190065600",
+        "fechaProceso": "2019-04-04T00:00:00",
+        "fechaUltimaActuacion": "2023-04-12T00:00:00",
+        "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEIDY YANETH VIDAL RODRÍGUEZ ",
+        "esPrivado": false,
+        "cantFilas": -1
+      },
+      {
+        "idProceso": 135801811,
+        "idConexion": 320,
+        "llaveProceso": "11001418901420190065600",
+        "fechaProceso": "2019-04-03T00:00:00",
+        "fechaUltimaActuacion": "2022-09-12T00:00:00",
+        "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: LEIDY YANETH VIDAL RODRIGUEZ (Emplazado) ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001418901420190065600",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 2,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 51816100,
+    "idConexion": 259,
+    "llaveProceso": "11001418901420190065600",
+    "fechaProceso": "2019-04-04T00:00:00",
+    "fechaUltimaActuacion": "2023-04-12T00:00:00",
+    "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEIDY YANETH VIDAL RODRÍGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 135801811,
+    "idConexion": 320,
+    "llaveProceso": "11001418901420190065600",
+    "fechaProceso": "2019-04-03T00:00:00",
+    "fechaUltimaActuacion": "2022-09-12T00:00:00",
+    "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: LEIDY YANETH VIDAL RODRIGUEZ (Emplazado) ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 51816100,
+    "idConexion": 259,
+    "llaveProceso": "11001418901420190065600",
+    "fechaProceso": "2019-04-04T00:00:00",
+    "fechaUltimaActuacion": "2023-04-12T00:00:00",
+    "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: LEIDY YANETH VIDAL RODRÍGUEZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 135801811,
+    "idConexion": 320,
+    "llaveProceso": "11001418901420190065600",
+    "fechaProceso": "2019-04-03T00:00:00",
+    "fechaUltimaActuacion": "2022-09-12T00:00:00",
+    "despacho": "JUZGADO 014 DE PEQUEÑAS CAUSAS  Y COMPETENCIA MÚLTIPLE DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante/accionante: BANCOLOMBIA SA | Demandado/indiciado/causante: LEIDY YANETH VIDAL RODRIGUEZ (Emplazado) ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "idProceso": 87350810,
+    "idConexion": 259,
+    "llaveProceso": "11001418900820180078500",
+    "fechaProceso": "2021-03-24T00:00:00",
+    "fechaUltimaActuacion": "2023-02-27T00:00:00",
+    "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA PACHECO RAMIREZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  },
+  {
+    "tipoConsulta": "NumeroRadicacion",
+    "procesos": [
+      {
+        "idProceso": 87350810,
+        "idConexion": 259,
+        "llaveProceso": "11001418900820180078500",
+        "fechaProceso": "2021-03-24T00:00:00",
+        "fechaUltimaActuacion": "2023-02-27T00:00:00",
+        "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+        "departamento": "BOGOTÁ",
+        "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA PACHECO RAMIREZ ",
+        "esPrivado": false,
+        "cantFilas": -1
+      }
+    ],
+    "parametros": {
+      "numero": "11001418900820180078500",
+      "nombre": null,
+      "tipoPersona": null,
+      "idSujeto": null,
+      "ponente": null,
+      "claseProceso": null,
+      "codificacionDespacho": null,
+      "soloActivos": false
+    },
+    "paginacion": {
+      "cantidadRegistros": 1,
+      "registrosPagina": 20,
+      "cantidadPaginas": 1,
+      "pagina": 1,
+      "paginas": null
+    }
+  },
+  {
+    "idProceso": 87350810,
+    "idConexion": 259,
+    "llaveProceso": "11001418900820180078500",
+    "fechaProceso": "2021-03-24T00:00:00",
+    "fechaUltimaActuacion": "2023-02-27T00:00:00",
+    "despacho": "JUZGADO 005 CIVIL MUNICIPAL DE EJECUCIÓN DE SENTENCIAS DE BOGOTÁ ",
+    "departamento": "BOGOTÁ",
+    "sujetosProcesales": "Demandante: BANCOLOMBIA S.A. | Demandado: SANDRA PATRICIA PACHECO RAMIREZ ",
+    "esPrivado": false,
+    "cantFilas": -1
+  }
+]

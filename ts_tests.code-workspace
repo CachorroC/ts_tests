@@ -1,11 +1,15 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"typescript.tsdk": ".yarn/sdks/typescript/lib",
-		"typescript.enablePromptUseWorkspaceTsdk": true
+  "folders": [
+	{
+		"path": "."
 	}
+],
+  "settings": {
+    "typescript.tsdk": ".yarn/sdks/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "yaml.schemas": {
+      "file:///home/cachorro_cami/.vscode-insiders/extensions/docsmsft.docs-yaml-1.0.0/dist/toc.schema.json": "/toc\\.yml/i",
+      "https://json.schemastore.org/eslintrc.json": "file:///home/cachorro_cami/Projects/ts_tests/.eslintrc.yml"
+    }
+  }
 }
