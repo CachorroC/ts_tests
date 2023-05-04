@@ -1,13 +1,11 @@
-export interface Demandado {
+export declare class Demandado {
     firstName: string;
-    lastName: string;
+    apellidos: string;
     llaveProceso: string;
     idProceso: number;
     tel: number[];
     juzgado: string;
-    extras?: string | unknown | undefined | null;
-}
-export declare class Demandado {
-    name: (() => string) | undefined;
+    extras: unknown;
     construtor(nombre1: string, nombre2: string, apellidos: string, llaveProceso: string, idProceso: number, tel: number[], juzgado: string, extras: unknown): void;
+    get name(): string;
 }

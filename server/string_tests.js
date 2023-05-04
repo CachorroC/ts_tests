@@ -1,16 +1,19 @@
-"use strict";
 const procesosRaw = function Cleaner(SP, despacho, FUA) {
     const locateDemandado = SP.search(/(demandado|causante)+:(?:\s*?|'\s*?')/gi);
     console.log(locateDemandado);
     const extractDemandado = SP.slice(locateDemandado + 10).toLocaleLowerCase();
     console.log(extractDemandado);
-    const trimDemandado = extractDemandado.replace(/^\s+|\s+$/gm, '');
+    const trimDemandado = extractDemandado.replace(/^\s+|\s+$/gm, "");
     console.log(trimDemandado);
-    const splitDemandado = trimDemandado.split(' ');
+    const splitDemandado = trimDemandado.split(" ");
     console.log(splitDemandado);
-    const splitDemandadotoUnify = splitDemandado.map((noa) => noa.replace(/^./, (str) => str.toUpperCase()));
+    const splitDemandadotoUnify = splitDemandado.map((noa) => {
+        return noa.replace(/^./, (str) => {
+            return str.toUpperCase();
+        });
+    });
     console.log(splitDemandadotoUnify);
-    const unifyDemandado = splitDemandadotoUnify.join(' ');
+    const unifyDemandado = splitDemandadotoUnify.join(" ");
     console.log(unifyDemandado);
     const hasActuaciones = () => {
         if (locateDemandado === -1) {
@@ -28,10 +31,10 @@ const procesosRaw = function Cleaner(SP, despacho, FUA) {
     console.log(isPrivado());
     const hasContent = () => {
         if (FUA === null) {
-            return 'no hay contenido';
+            return "no hay contenido";
         }
         if (FUA === undefined) {
-            return 'no se ha definido el contenido';
+            return "no se ha definido el contenido";
         }
         return FUA;
     };
@@ -40,7 +43,7 @@ const procesosRaw = function Cleaner(SP, despacho, FUA) {
             return SP;
         }
         if (isPrivado()) {
-            return '';
+            return "";
         }
         return unifyDemandado;
     };
@@ -51,62 +54,80 @@ const procesosRaw = function Cleaner(SP, despacho, FUA) {
     };
     return Demandado;
 };
-const fixedProcesos = procesosRaw.map((proceso, index, array) => Cleaner(proceso.sujetosProcesales, proceso.despacho, proceso.fechaUltimaActuacion));
+const fixedProcesos = procesosRaw.map((proceso, index, array) => {
+    return Cleaner(proceso.sujetosProcesales, proceso.despacho, proceso.fechaUltimaActuacion);
+});
 fixedProcesos;
 function cleanNombreDemandadoOnly(SP) {
     const locateDemandado = SP.search(/(demandado|causante)+:(?:\s*?|'\s*?')/gi);
     console.log(locateDemandado);
-    if (locateDemandado === -1)
-        return '';
+    if (locateDemandado === -1) {
+        return "";
+    }
     const extractDemandado = SP.slice(locateDemandado + 10).toLocaleLowerCase();
     console.log(extractDemandado);
-    const trimDemandado = extractDemandado.replace(/^\s+|\s+$/gm, '');
+    const trimDemandado = extractDemandado.replace(/^\s+|\s+$/gm, "");
     console.log(trimDemandado);
-    const splitDemandado = trimDemandado.split(' ');
+    const splitDemandado = trimDemandado.split(" ");
     console.log(splitDemandado);
     const splitDemandadotoUnify = splitDemandado.map((nombreOapellido, index) => {
         console.log(nombreOapellido);
-        if (index >= 5)
+        if (index >= 5) {
             return;
-        if (nombreOapellido === '|')
+        }
+        if (nombreOapellido === "|") {
             return;
-        if (nombreOapellido.includes('s.a.s'))
+        }
+        if (nombreOapellido.includes("s.a.s")) {
             return;
-        if (nombreOapellido.includes('(emplazado)'))
+        }
+        if (nombreOapellido.includes("(emplazado)")) {
             return;
-        return nombreOapellido.replace(/^./, (str) => str.toUpperCase());
+        }
+        return nombreOapellido.replace(/^./, (str) => {
+            return str.toUpperCase();
+        });
     });
     console.log(splitDemandadotoUnify);
-    const unifyDemandado = splitDemandadotoUnify.join(' ');
+    const unifyDemandado = splitDemandadotoUnify.join(" ");
     console.log(unifyDemandado);
     return unifyDemandado;
 }
-const soloDemandado = procesosRaw.map((proceso) => cleanNombreDemandadoOnly(proceso.sujetosProcesales));
+const soloDemandado = procesosRaw.map((proceso) => {
+    return cleanNombreDemandadoOnly(proceso.sujetosProcesales);
+});
 soloDemandado;
 function transformDataDemandadoClean(proceso) {
     function cleanTextDemandado(sujetosProcesales) {
         const locateDemandado = sujetosProcesales.search(/(demandado|causante)+:(?:\s*?|'\s*?')/gi);
         console.log(locateDemandado);
-        if (locateDemandado === -1)
-            return '';
+        if (locateDemandado === -1) {
+            return "";
+        }
         const extractDemandado = sujetosProcesales
             .slice(locateDemandado + 10)
             .toLocaleLowerCase();
-        const trimDemandado = extractDemandado.replace(/^\s+|\s+$/gm, '');
-        const splitDemandado = trimDemandado.split(' ');
+        const trimDemandado = extractDemandado.replace(/^\s+|\s+$/gm, "");
+        const splitDemandado = trimDemandado.split(" ");
         const splitDemandadotoUnify = splitDemandado.map((nombreOapellido, index) => {
-            if (index >= 5)
+            if (index >= 5) {
                 return;
+            }
             console.log(nombreOapellido);
-            if (nombreOapellido === '|')
+            if (nombreOapellido === "|") {
                 return;
-            if (nombreOapellido.includes('s.a.s'))
+            }
+            if (nombreOapellido.includes("s.a.s")) {
                 return;
-            if (nombreOapellido.includes('(emplazado)'))
+            }
+            if (nombreOapellido.includes("(emplazado)")) {
                 return;
-            return nombreOapellido.replace(/^./, (str) => str.toUpperCase());
+            }
+            return nombreOapellido.replace(/^./, (str) => {
+                return str.toUpperCase();
+            });
         });
-        const unifyDemandado = splitDemandadotoUnify.join(' ');
+        const unifyDemandado = splitDemandadotoUnify.join(" ");
         const isPrivado = () => {
             if (sujetosProcesales.match(/-+.*\[.*\].*-+/gi)) {
                 return true;
@@ -117,10 +138,10 @@ function transformDataDemandadoClean(proceso) {
     }
     function cleanTextUltimaActuacion(fechaUltimaActuacion) {
         if (fechaUltimaActuacion === null) {
-            return 'no hay contenido';
+            return "no hay contenido";
         }
         if (fechaUltimaActuacion === undefined) {
-            return 'no se ha definido el contenido';
+            return "no se ha definido el contenido";
         }
         return fechaUltimaActuacion;
     }
@@ -137,5 +158,8 @@ function transformDataDemandadoClean(proceso) {
     };
     return Demandado;
 }
-const clean = procesosRaw.map((proceso) => transformDataDemandadoClean(proceso));
+const clean = procesosRaw.map((proceso) => {
+    return transformDataDemandadoClean(proceso);
+});
 clean;
+export {};
